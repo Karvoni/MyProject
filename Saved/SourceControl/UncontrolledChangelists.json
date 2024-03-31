@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Labwork1/NewMap.umap",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Labwork1/BP_MazeCell.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Labwork1/BPI_Interactable.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/GM_Keys.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Labwork1/BP_Key.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Labwork1/BP_SlidingDoor.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/Characters/Mannequins/Materials/M_Mannequin.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset",
+				"C:/Users/halil/Documents/Unreal Projects/MyProject/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset"
+			]
+		}
+	]
+}
